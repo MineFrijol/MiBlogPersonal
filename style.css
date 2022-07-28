@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:40px;
+    font-family:sans-serif;
+    font-weight:300;
+}
+#apps{
+    background: linear-gradient(rgb(129, 236, 255) 0%,rgb(39, 169, 255) 100%);
+}
+#myCarousel{
+    background: linear-gradient(rgb(39, 169, 255) 0%, rgb(129, 236, 255) 100%);
+}
+#chatbot{
+    background: linear-gradient(rgb(129, 236, 255) 0%,rgb(39, 169, 255) 100%)
+}
+.line{
+    height:6px;
+    background-color:aquamarine;
+    width:70px;
+    margin:8px auto;
+}
+#mycarousel img{
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner{
+margin-top:15px;
+color:white;
+font-size:20px;
+}
